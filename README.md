@@ -1,1 +1,1 @@
-# THis is a lab file for spring 23
+# This is a lab file for spring 23
